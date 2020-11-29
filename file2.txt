@@ -1,0 +1,2 @@
+version control distributed system is git
+it have both local and remote repository
